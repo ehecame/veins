@@ -23,9 +23,34 @@ Los dos objetivos de esta primera fase son:
 - Un enunciado de apoyo
 - Un enunciado para cierre
 
-####Imágen Principal
-- The benefits of your offering
-- A bullet point list summary of benefits
-- Benefit and features in detail
-- Social proof (I’ll have what she’s having)
-- A single conversion goal — your Call-To-Action (CTA) (with or without a form)
+####Imagen Principal
+- Ilustración
+
+####Imagenes secundarias
+- Screenshot de mapa con lista de ofrecimientos de hospedaje
+- Imágenes de UX en proceso: Wireframes en construcción, flujos de interacción, etc.
+- Fotografías de habitaciones reales, reflejando el espíritu amigable, autogestivo y liberal. (Es necesario contar con muy buenas fotos. Los espacios deberían estar ordenados y limpios, sin perder lo auténtico, personal o creativo que pueden tener.
+
+
+
+
+
+####Beneficios
+
+
+- Listado de puntos clave que resumen los beneficios
+- Algunos beneficios y características a detalle
+
+
+####Comunidad
+
+* Párrafo sobre Participación Social
+
+* Cuadrícula de vecinos
+** Fotografía amigable
+-- Nombre
+-- Frase que responda a: Por qué te interesa participar en Veins?
+
+
+
+####Meta de Conversión
