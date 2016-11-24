@@ -45,12 +45,12 @@ Los dos objetivos de esta primera fase son:
 ####Comunidad
 
 * Párrafo sobre Participación Social
-
-* Cuadrícula de vecinos
-** Fotografía amigable
--- Nombre
--- Frase que responda a: Por qué te interesa participar en Veins?
+* Cuadrícula de vecinos (foto, nombre, expectativa sobre veins)
 
 
 
-####Meta de Conversión
+####Acción Principal
+#####(Meta de Conversión)
+
+* Registro de público general a Lista de Correos
+* Registro de vecinos para info privada y captura de datos demográficos
