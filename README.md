@@ -7,8 +7,29 @@ Cooperativa de arrendamiento de vivienda con base en principios comunitarios y c
 El proceso de organización de la asamblea de Veïns responde a la evolución del contexto local, y aprovecha las posibilidades actuales de construcción de plataformas tecnológicas para el beneficio comunitario.
 
 
+
 ## Fase 1
 
+
+### Públicos
+
+##### Objetivo Principal:
+
+Los vecinos organizados de la ciudad de Barcelona, que querrían participar de la iniciativa y estarían dispuestos a formar parte del proceso de diálogo colectivo.
+
+
+##### Público Principal:
+
+Los vecinos organizados de la ciudad de Barcelona, que querrían participar de la iniciativa y estarían dispuestos a formar parte del proceso de diálogo colectivo.
+
+
+##### Públicos Secundarios:
+
+- Personas solidarias de todo el mundo que quieran más información, así como compartir la iniciativa con su red de contactos.
+- Medios de comunicación y políticos locales: al enterarse de la plataforma, querrán encontrar más información para valorar personalmente la iniciativa.
+- Personas sin posicionamiento que encuentren la iniciativa en artículos periodísticos o a través de sus contactos en redes sociales. Posiblemente tengan una predisposición positiva o negativa hacia la plataforma antes de ingresar.
+
+### Objetivos:
 Los dos objetivos de esta primera fase son:
 
 - Construir una propuesta estratégica: modelando posibilidades de sustentabilidad, previniendo riesgos, buscando un beneficio colectivo, y analizando el contexto jurídico, económico y social.
@@ -67,3 +88,8 @@ Un texto de unos 3 párrafos breves que exprese las motivaciones, objetivos y es
 - Un subtítulo que sintetice la situación legal en la que se encuentra la asamblea.
 
 - Un texto de 2 párrafos breves que presente el contexto legal, la postura colectiva, y las intenciones y estrategias de cambio que se hayan consensado.
+
+###### Preguntas:
+
+- ¿Cuál es la postura de la asamblea de veins con respecto a la legislación en torno al alquiler de vivienda turística en Barcelona?
+- ¿Contempla Veins algún tipo de proceso jurídico o movilización para impulsar el tema en la agenda política local?
